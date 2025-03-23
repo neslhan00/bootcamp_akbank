@@ -1,5 +1,5 @@
 # bootcamp_akbank
-# Sürücüsüz Metro Simülasyonu
+# Metro Simülasyonu
 
 ## Proje Hakkında
 Bu projede, metro ağında **en az aktarmalı** ve **en hızlı** rotayı bulmayı amaçladım. 
